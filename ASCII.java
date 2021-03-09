@@ -1,3 +1,7 @@
+/*
+* Description: A program that prints the value of a given ASCII character
+*/
+
 public class ASCII {
 
     public static void main(String[] args) {
