@@ -1,5 +1,5 @@
 /*
-* Description: A program that prints the value of a given ASCII character
+* Description: A program that prints the numerical value of a given ASCII character
 */
 
 public class ASCII {
